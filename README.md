@@ -1,4 +1,7 @@
 PDF-BruteForce-Educational v1.0.0
+
+
+
 This is a fairly simple localized Brute Force tool for decrypting PDF files that you might have forgotten the password for.
 
 Dependencies
