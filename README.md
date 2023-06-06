@@ -6,15 +6,15 @@ This is a fairly simple localized Brute Force tool for decrypting PDF files that
 
 For ease of use, you may just run [Application] in the folder which is compile via cx_Freeze and Dependencies as below
 
-import tkinter as tk 
-from tkinter import ttk, scrolledtext
-from tkinter import *
-from tkinter.filedialog import askopenfilename
-import itertools
-import string
-import pikepdf
-from tqdm import tqdm
-import os
+import tkinter as tk <br>
+from tkinter import ttk, scrolledtext<br>
+from tkinter import *<br>
+from tkinter.filedialog import askopenfilename<br>
+import itertools<br>
+import string<br>
+import pikepdf<br>
+from tqdm import tqdm<br>
+import os<br>
 
 
 Dependencies
