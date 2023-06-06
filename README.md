@@ -1,7 +1,7 @@
 PDF-BruteForce-Educational v1.0.0
 
 
-!![Alt text]([image link](https://github.com/DanielTan1985/PDF-BruteForce-Educational/blob/main/Image00.jpg?raw=true))
+![Alt text]([image link](https://github.com/DanielTan1985/PDF-BruteForce-Educational/blob/main/Image00.jpg?raw=true))
 
 This is a fairly simple localized Brute Force tool for decrypting PDF files that you might have forgotten the password for.
 
