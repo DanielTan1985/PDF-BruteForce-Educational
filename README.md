@@ -34,7 +34,6 @@ All Permutation<br>
 If the password is fairly long (for example, 6 characters), the total number of permutations will be 586,236,072,240. Even at a speed of 1000 characters per second (depending on your computer's processing speed), it will take a while to try all the combinations.<br>
 <br>
 Potential Wordlist (suggestive)<br>
-<br>
 You can also provide your own potential wordlist. Simply place the wordlist file in the same folder as the program and load it into the graphical user interface (GUI). This allows you to use a customized list of passwords to attempt decryption.<br>
 <br>
 Feel free to explore the program and decrypt your PDF files which you have lost the password with the provided options.
