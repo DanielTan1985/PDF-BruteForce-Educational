@@ -1,21 +1,32 @@
-PDF-BruteForce-Educational v1.0.0
+PDF-BruteForce-Educational v1.0.0 (Python)
 
-https://github.com/DanielTan1985/PDF-BruteForce-Educational/blob/main/Image00.jpg?raw=true
-![Alt text](https://github.com/DanielTan1985/PDF-BruteForce-Educational/blob/main/Image00.jpg?raw=true)
+![Image00](https://github.com/DanielTan1985/PDF-BruteForce-Educational/blob/main/Image00.jpg?raw=true)
 
 This is a fairly simple localized Brute Force tool for decrypting PDF files that you might have forgotten the password for.
+
+For ease of use, you may just run [Application] in the folder which is compile via cx_Freeze and Dependencies as below
+
+import tkinter as tk 
+from tkinter import ttk, scrolledtext
+from tkinter import *
+from tkinter.filedialog import askopenfilename
+import itertools
+import string
+import pikepdf
+from tqdm import tqdm
+import os
+
 
 Dependencies
 To run the program, make sure you have the necessary dependencies installed. If any dependencies are missing, you can install them using pip. Here are the steps:
 
-Open your terminal or command prompt.
+-> Open your terminal or command prompt.
 Run the following command to install the associated dependencies:
-Copy code
 pip install {associated_dependencies}
+
 If you already have the dependencies installed but need to upgrade them, use the following command:
-css
-Copy code
 pip install --upgrade {associated_dependencies}
+
 Usage
 The program provides two options for decryption: All Permutation or Potential Wordlist (suggestive).
 
